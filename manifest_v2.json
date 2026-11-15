@@ -78,5 +78,9 @@
       "versionCode": 2
     }
   },
-  "ext": {}
+  "ext": {
+    "nsfw": {
+      "reason": "含有成人内容"
+    }
+  }
 }
